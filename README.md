@@ -27,7 +27,7 @@ enough as you need to solve burden with generation of LaTeX file from varying in
 manage static files like images and handling dependencies between pieces of document.
 
 The new tool takes the burden away. Now all static files and generation code is
-located within a single template project, that describes how to build your PDF document in a declaretive way.
+located within a single template project, that describes how to build your PDF document in a declarative way.
 
 Common work flow with pdf-slave:
 * Develop template from several LaTeX files with embedded Haskell (thanks to [haskintex](http://daniel-diaz.github.io/projects/haskintex/)
